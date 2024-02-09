@@ -1,0 +1,28 @@
+#slavik {
+    width: 100px;
+    height: 20px;
+    text-align: center;
+    color: #0C2D57;
+    position: absolute;
+    background: #FFCF96;
+}
+
+body {
+    width: 300px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+    color: #0C2D57
+}
+
+.yes {
+    width: 100px;
+    height: 20px;
+    text-align: center;
+    color: #0C2D57;
+    position: absolute;
+    background: #FFCF96;
+    border: none;
+}
